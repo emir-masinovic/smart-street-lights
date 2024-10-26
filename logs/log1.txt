@@ -1,0 +1,785 @@
+===========================
+Initialization
+======================================================
+START SIMULATION
+======================================================
+
+----------------------------------------------------------------------------
+Time : 0.0
+Min (milliseconds) : 0.0
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+S100 Starts the loop section.
+S100 is waiting for data ...
+S17 ATGET ID.
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.0E-21
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.0031373333333333336
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.02666666666666667
+Min (milliseconds) : 0.023529333333333336
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.5031373333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5266666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0031373333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0266666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.5031373333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.5266666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.0031373333333335
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.026666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.5031373333333335
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.526666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.0031373333333335
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.026666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.5031373333333335
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.526666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.003137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.026666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.503137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.526666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.003137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.026666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.503137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.526666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.003137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.026666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.503137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.526666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.003137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.026666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 1
+S10 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S2 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.503137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "1" and puts it in x
+S2 MARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.526666666666666
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.003137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.026666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.503137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.526666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 9.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 9.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 9.003137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 9.026666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 9.5
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 9.5
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 9.503137333333333
+Min (milliseconds) : 0.0031373333333333336
+S2 Buffer available, exit waiting.
+S2 READ
+S2 is reading from its buffer "2" and puts it in x
+S2 UNMARK
+S2 Starts the loop section.
+S2 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 9.526666666666667
+Min (milliseconds) : 0.02352933333333334
+S17 has finished the delay.
+
+S17 Starts the loop section.
+S17 READ SENSOR: 0
+S17 starts delaying for 500.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 10.0
+Min (milliseconds) : 0.47333333333333333
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 READ SENSOR: 0
+S10 is writing the message : "2" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 10.0
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "2".
+S10 has finished sending the message : "2" to the node: 
+S2 (radio: radio1) is receiving the message : "2" in its buffer.
+S10 starts delaying for 500.0 milliseconds
